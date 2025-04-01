@@ -1,2 +1,5 @@
 ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
  desaparecio en el branch main porque solo ese archivo existe en otra rama
+
+En VSCode vuelva al “Source Control” vea los cambios, ¿Qué nota?
+se nota que la rama opcion_2 se integro a la rama main 
