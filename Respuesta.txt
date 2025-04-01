@@ -1,0 +1,2 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+ desaparecio en el branch main porque solo ese archivo existe en otra rama
